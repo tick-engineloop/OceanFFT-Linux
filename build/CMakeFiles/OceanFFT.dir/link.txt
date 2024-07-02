@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OceanFFT.dir/Source/Main.cpp.o -o OceanFFT  External/Ogle/libOgle.a -lGLEW -lGL External/Ogle/External/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
