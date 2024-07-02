@@ -11,7 +11,7 @@ This Project Forked from [achalpandeyy's OceanFFT](https://github.com/achalpande
 
 ## Build Instructions
 
-1. Clone recursively with submodules via `git clone git://github.com/tick-engineloop/OceanFFT-Linux.git`
+1. Clone recursively with submodules via `git clone https://github.com/tick-engineloop/OceanFFT-Linux.git`
 2. Create a directory named 'build' in the root directory, go into 'build' and Run CMake
 3. Run OceanFFT, Press 'g' to display debug GUI.
 
